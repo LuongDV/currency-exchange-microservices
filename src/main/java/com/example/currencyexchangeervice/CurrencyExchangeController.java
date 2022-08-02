@@ -1,6 +1,5 @@
 package com.example.currencyexchangeervice;
 
-import com.example.currencyexchangeservice.ExchangeValue;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 
